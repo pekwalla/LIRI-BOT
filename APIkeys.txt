@@ -1,0 +1,10 @@
+
+
+Collect all the tocken for the project
+
+Spotify
+Client ID 1f463c7df0a94213b33e34a26612048d
+Client Secret 71a2afe0d1d64a7e85881b4c78ed9411 
+
+OMDB 
+OMDb key: 29b20143
